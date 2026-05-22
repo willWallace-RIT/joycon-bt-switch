@@ -1,5 +1,4 @@
 # joycon-bt-switch
-# joycon-bt-switch
 
 script to fix pairing issue with joycons after saving the device pair info and switching back to the switch and then back to the deck.
 
